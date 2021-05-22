@@ -1,6 +1,6 @@
 # Updated as of Aug 16, 2017
 # Install FROM UBUNTU IMAGE
-FROM ubuntu:16.04
+FROM ubuntu:latest
 
 #Author of the Docker File
 # MAINTAINER Pictolearn Note: MAINTAINER has been deprecated for LABEL, 
